@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavideSP2010
 - 👀 I’m interested in learning programming and math
-- 🌱 I’m currently learning the programming language C
+- 🌱 I’m currently learning the game development in godot
 - 📫 How to reach me, for now i want to stay anon
 
 <!---
